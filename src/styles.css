@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+a {
+  text-decoration: inherit;
+  color: inherit;
+}
+.App {
+  background-image: url("https://www.buzzfeed.com/static-assets/quizparty/_next/static/img/background-mobile.081bc22ca2a62ca7baa40b4b5dfa8a10.png");
+  height: 98.5vh;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size: cover;
+  border: 8px solid lightgreen;
+  margin: 5px;
+}

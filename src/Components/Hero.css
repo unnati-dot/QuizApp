@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+
+.heading {
+  margin-left: 650px;
+  margin-top: 100px;
+  font-family: "Poppins", sans-serif;
+  background-color: #fa9905;
+  border-radius: 4px;
+  width: 200px;
+}
+.hero {
+  margin-left: 650px;
+  margin-top: 250px;
+}
+.title {
+  text-transform: uppercase;
+  font-size: 8vh;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
